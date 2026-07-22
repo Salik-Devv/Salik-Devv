@@ -17,9 +17,9 @@ Research Intern, Indian Institute of Technology Jodhpur
 
 ## About
 
-I work at the intersection of hardware and machine learning systems — designing accelerators that make LLM inference faster and more power-efficient. My recent work spans CUDA kernel optimization, FPGA-based GEMV accelerators built with Vitis HLS, and RTL design, all unified around a single benchmark: **LLaMA-2 inference**.
+My work focuses on the intersection of computer architecture, GPU/CUDA systems, and machine learning — building hardware accelerators that make LLM inference faster and more power-efficient. My recent work spans CUDA kernel optimization, FPGA-based GEMV accelerators using Vitis HLS, and RTL design, evaluated against a common benchmark: LLaMA-2 inference.
 
-I'm looking to grow into an R&D role in AI hardware acceleration or computer architecture, at organizations like NVIDIA, AMD, Qualcomm, Intel, or Apple — and am currently exploring graduate research opportunities in the same space.
+I'm particularly interested in AI hardware acceleration, hardware/software co-design, FPGA systems, and high-performance computing. My long-term goal is to contribute to R&D in computer architecture and AI systems.
 
 <br>
 
@@ -134,9 +134,9 @@ VLSI-focused internship.
 
 ## Contact
 
-- **Email:** YOUR_EMAIL@example.com
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **Email:** msalikdev@gmail.com
+- **LinkedIn:** [linkedin.com/in/mohammad-salik-dev](https://linkedin.com/in/mohammad-salik-dev)
+- **GitHub:** [github.com/Salik-Devv](https://github.com/Salik-Devv)
 
 <br>
 
