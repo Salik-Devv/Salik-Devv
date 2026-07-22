@@ -5,6 +5,7 @@
 **AI Hardware Acceleration · Computer Architecture · FPGA & GPU Systems**
 
 B.Tech, Electronics & Communication Engineering — Jamia Millia Islamia, New Delhi (2027)
+
 Research Intern, Indian Institute of Technology Jodhpur
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msalikdev@example.com)
