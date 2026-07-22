@@ -7,9 +7,9 @@
 B.Tech, Electronics & Communication Engineering — Jamia Millia Islamia, New Delhi (2027)
 Research Intern, Indian Institute of Technology Jodhpur
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msalikdev@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-salik-dev-3b7795280/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salik-Devv)
 
 </div>
 
@@ -125,8 +125,8 @@ VLSI-focused internship.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salik-Devv&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salik-Devv&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -135,8 +135,8 @@ VLSI-focused internship.
 ## Contact
 
 - **Email:** msalikdev@gmail.com
-- **LinkedIn:** [linkedin.com/in/mohammad-salik-dev](https://linkedin.com/in/mohammad-salik-dev)
-- **GitHub:** [github.com/Salik-Devv](https://github.com/Salik-Devv)
+- **LinkedIn:** [Mohammad Salik Dev](https://www.linkedin.com/in/mohammad-salik-dev-3b7795280/)
+- **GitHub:** [Salik-Devv](https://github.com/Salik-Devv)
 
 <br>
 
