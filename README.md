@@ -75,33 +75,6 @@ I'm particularly interested in AI hardware acceleration, hardware/software co-de
 
 <br>
 
-## Featured Projects
-
-### 🔹 [Hybrid FPGA/CPU LLaMA-2 Accelerator](https://github.com/YOUR_USERNAME/llama2-fpga-accelerator)
-Hybrid FPGA/CPU inference framework for LLaMA-2 on the Xilinx ZCU102, built with Vitis HLS.
-- Custom GEMV accelerator with AXI-based architecture
-- CPU–FPGA workload partitioning
-- PMBus-based power monitoring across FPGA rails
-- Roofline-guided and dataflow optimization
-
-### 🔹 [llama2-cuda](https://github.com/YOUR_USERNAME/llama2-cuda)
-CUDA implementation of LLaMA-2 inference targeting an RTX 4060.
-- Custom CUDA kernels with GPU-side throughput benchmarking
-- Nsight Systems / Nsight Compute profiling
-- Roofline analysis to identify compute vs. memory-bound stages
-
-### 🔹 [RV32I 5-Stage Pipelined CPU](https://github.com/YOUR_USERNAME/rv32i-pipelined-cpu)
-Fully pipelined RISC-V processor implemented in RTL.
-- Hazard detection and forwarding unit
-- RTL verification and timing optimization
-
-### 🔹 [CUDA Sobel Edge Detection](https://github.com/YOUR_USERNAME/cuda-sobel-edge-detection)
-CPU vs. GPU benchmarking study for a classic image-processing kernel.
-- Shared-memory optimization
-- Roofline analysis and performance profiling
-
-<br>
-
 ## Research Experience
 
 **Research Intern — Indian Institute of Technology Jodhpur**
@@ -121,16 +94,6 @@ VLSI-focused internship.
 
 <br>
 
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salik-Devv&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salik-Devv&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
-<br>
 
 ## Contact
 
