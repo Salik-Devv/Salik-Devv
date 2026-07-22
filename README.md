@@ -86,16 +86,6 @@ VLSI-focused internship.
 
 <br>
 
-## Current Focus
-
-- FPGA acceleration for transformer inference
-- Efficient GEMV architectures
-- Hardware/software co-design for AI inference
-- Computer architecture research
-
-<br>
-
-
 ## Contact
 
 - **Email:** msalikdev@gmail.com
